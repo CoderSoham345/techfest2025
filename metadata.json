@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 2050",
+  "description": "An award-winning 3D interactive, cinematic website for Techfest IIT Bombay 2050.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
